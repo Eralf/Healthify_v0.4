@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Healthify_v0.4/static/css/main.fd1e895a.css",
-    "main.js": "/Healthify_v0.4/static/js/main.6f7b4f32.js",
+    "main.js": "/Healthify_v0.4/static/js/main.c2522ffe.js",
     "static/media/ArticlesSection_bg.png": "/Healthify_v0.4/static/media/ArticlesSection_bg.2488f06e71af9f780fbd.png",
     "static/media/NavArrow.png": "/Healthify_v0.4/static/media/NavArrow.a9f98dd1ace6053648c6.png",
     "static/media/TrendingSection_bg.jpg": "/Healthify_v0.4/static/media/TrendingSection_bg.590833d3926e1b776281.jpg",
@@ -20,10 +20,10 @@
     "static/media/Icon_Edit.png": "/Healthify_v0.4/static/media/Icon_Edit.2bd449c4073072b1679e.png",
     "index.html": "/Healthify_v0.4/index.html",
     "main.fd1e895a.css.map": "/Healthify_v0.4/static/css/main.fd1e895a.css.map",
-    "main.6f7b4f32.js.map": "/Healthify_v0.4/static/js/main.6f7b4f32.js.map"
+    "main.c2522ffe.js.map": "/Healthify_v0.4/static/js/main.c2522ffe.js.map"
   },
   "entrypoints": [
     "static/css/main.fd1e895a.css",
-    "static/js/main.6f7b4f32.js"
+    "static/js/main.c2522ffe.js"
   ]
 }
