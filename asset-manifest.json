@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Healthify_v0.4/static/css/main.fd1e895a.css",
+    "main.js": "/Healthify_v0.4/static/js/main.6f7b4f32.js",
+    "static/media/ArticlesSection_bg.png": "/Healthify_v0.4/static/media/ArticlesSection_bg.2488f06e71af9f780fbd.png",
+    "static/media/NavArrow.png": "/Healthify_v0.4/static/media/NavArrow.a9f98dd1ace6053648c6.png",
+    "static/media/TrendingSection_bg.jpg": "/Healthify_v0.4/static/media/TrendingSection_bg.590833d3926e1b776281.jpg",
+    "static/media/SearchSection_bg.jpg": "/Healthify_v0.4/static/media/SearchSection_bg.74684bbc79b4d919d739.jpg",
+    "static/media/Icon_Camera.png": "/Healthify_v0.4/static/media/Icon_Camera.d3214dfec1db04d54dee.png",
+    "static/media/Logo_Healthify.png": "/Healthify_v0.4/static/media/Logo_Healthify.ef6dc11260195a246b66.png",
+    "static/media/ArticlesSection_left_img.jpg": "/Healthify_v0.4/static/media/ArticlesSection_left_img.9a3e451797861162d42f.jpg",
+    "static/media/Icon_User.png": "/Healthify_v0.4/static/media/Icon_User.a74610300c96eb3f3b4d.png",
+    "static/media/Icon_Home.png": "/Healthify_v0.4/static/media/Icon_Home.e57344966359b3ab04dd.png",
+    "static/media/Icon_Email.png": "/Healthify_v0.4/static/media/Icon_Email.3e79a42440984cf1b9b4.png",
+    "static/media/Icon_Wallet.png": "/Healthify_v0.4/static/media/Icon_Wallet.71464eb01e584a70cdef.png",
+    "static/media/Icon_Lock.png": "/Healthify_v0.4/static/media/Icon_Lock.34825638f8554c7bb1b4.png",
+    "static/media/Icon_Recipe.png": "/Healthify_v0.4/static/media/Icon_Recipe.32158dee28ebe2776316.png",
+    "static/media/Icon_Settings.png": "/Healthify_v0.4/static/media/Icon_Settings.2a7f039b8d902eb97aa2.png",
+    "static/media/Icon_Search.png": "/Healthify_v0.4/static/media/Icon_Search.f8625530f28f5f5d0bfa.png",
+    "static/media/Icon_Edit.png": "/Healthify_v0.4/static/media/Icon_Edit.2bd449c4073072b1679e.png",
+    "index.html": "/Healthify_v0.4/index.html",
+    "main.fd1e895a.css.map": "/Healthify_v0.4/static/css/main.fd1e895a.css.map",
+    "main.6f7b4f32.js.map": "/Healthify_v0.4/static/js/main.6f7b4f32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1e895a.css",
+    "static/js/main.6f7b4f32.js"
+  ]
+}
